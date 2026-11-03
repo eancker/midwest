@@ -1,0 +1,12 @@
+{
+  "name": "midwest",
+  "description": "Plain-talk skills from eancker",
+  "owner": { "name": "eancker" },
+  "plugins": [
+    {
+      "name": "midwest",
+      "source": "./",
+      "description": "Explains anything in plain, casual, beginner-friendly language."
+    }
+  ]
+}
