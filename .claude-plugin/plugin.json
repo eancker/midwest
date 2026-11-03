@@ -4,5 +4,6 @@
   "description": "Explains anything in plain, casual, beginner-friendly language.",
   "author": {
     "name": "eancker"
-  }
+  },
+  "license": "MIT"
 }
