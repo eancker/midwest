@@ -6,9 +6,11 @@
 
 **Tech talk goes in. Plain talk comes out.**
 
+[Get it going in 30 seconds](#get-it-going)
+
 Ever ask a simple question and get back three paragraphs that sound like a Caltech final exam? Yeah. That's what this fixes.
 
-Midwest is a Claude skill that talks to you like your buddy at the tailgate who happens to know this stuff. That's Sloopy up there. Sloopy doesn't show off, doesn't use fifty-cent words, and always tells you what to do next.
+Midwest is a Claude skill that talks to you like your buddy at the tailgate who happens to know this stuff. That's Sloopy up there. Sloopy doesn't show off, doesn't use fifty-cent words, and always tells you what to do next. Sloopy also knows when to quit joking, so you won't get a Michigan zinger about your medical bill.
 
 > **O-H!**
 >
