@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/mascot.svg" width="360" alt="Sloopy, a friendly robot in a scarlet jersey and buckeye necklace, holding a spatula and saying: Here's the real deal.">
+  <img src="assets/sloopy.png" width="320" alt="Sloopy, a friendly silver robot in a scarlet striped jersey and buckeye necklace, waving and holding a spatula">
 </p>
 
 # Midwest
